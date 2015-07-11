@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91BB850B-29E2-43E1-B572-C4D611929E55</string>
+	<key>IDESourceControlProjectName</key>
+	<string>G-LogDirectDEMO</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5BA4DC5CCEE9A70FE6E6AEC5EE5588C95B552076</key>
+		<string>https://github.com/johannady2/glogdirectDEMO-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>glogdirectDEMO/platforms/ios/G-LogDirectDEMO.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5BA4DC5CCEE9A70FE6E6AEC5EE5588C95B552076</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johannady2/glogdirectDEMO-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5BA4DC5CCEE9A70FE6E6AEC5EE5588C95B552076</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5BA4DC5CCEE9A70FE6E6AEC5EE5588C95B552076</string>
+			<key>IDESourceControlWCCName</key>
+			<string>glogdirectDEMO-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
