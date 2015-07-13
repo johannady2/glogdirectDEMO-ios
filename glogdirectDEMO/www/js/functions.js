@@ -523,9 +523,15 @@ function eventListeners()
                          }
 						 else if(getUrlVars(event.url)['valll'] == 'catalogue')
 						 {
-							 alert('test');
-								ref = window.open('http://'+glogOrViveg+'/index.php?glog-app-access=76ef0d45220fdee3ac883a0c7565e50c', '_blank', 'location=no,toolbar=no');
+							            
+                             ref.close();
+                             $('.content-cont').html('<img src="img/loading.gif" style="margin:15% auto; width:25%; display:block;"/>'); 
+                              setTimeout(function()
+                             {
+							 ref = window.open('http://'+glogOrViveg+'/index.php?glog-app-access=76ef0d45220fdee3ac883a0c7565e50c', '_blank', 'location=no,toolbar=no');
 							 eventListeners();
+                              askExit();
+                             },500);
 						 }
                          else
                          {
